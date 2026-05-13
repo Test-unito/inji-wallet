@@ -5,7 +5,7 @@ It offers a secure, trustworthy, and dependable mobile Verifiable Credentials wa
 
 - Download and store Verifiable Credentials
 - Share Verifiable Credentials
-- Enable users to log in to relying parties with their credential
+- Enable users to log in to relying parties with their credential.
 - Generate a QR code for the credential to be shared offline with relying parties.
 
 for more details refer [here](https://docs.mosip.io/inji/inji-wallet/overview)
