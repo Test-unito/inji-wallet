@@ -11,6 +11,6 @@ permissions:
 
 jobs:
   call-linker:
-    uses: uses: Test-unito/demo-repository/.github/workflows/use-pr-linker.yml@main
+    uses: uses: Test-unito/demo-repository/.github/workflows/link-pr-to-issue.yml@main
     secrets:
       CROSS_REPO_TOKEN: ${{ secrets.CROSS_REPO_TOKEN }}
