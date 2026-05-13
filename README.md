@@ -10,7 +10,7 @@ It offers a secure, trustworthy, and dependable mobile Verifiable Credentials wa
 
 for more details refer [here](https://docs.mosip.io/inji/inji-wallet/overview)
 
-## Setup PreRequisites
+## Setup PreRequisites..
 
 Be sure to have the following build tools installed before proceeding:
 
