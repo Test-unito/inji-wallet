@@ -1,4 +1,6 @@
-# Inji
+# Inji..
+
+
 
 Inji Mobile Wallet is a mobile application specifically created to streamline all types of identification and credentials into one digital wallet.
 It offers a secure, trustworthy, and dependable mobile Verifiable Credentials wallet designed to fulfil the following functions
@@ -11,6 +13,8 @@ It offers a secure, trustworthy, and dependable mobile Verifiable Credentials wa
 for more details refer [here](https://docs.mosip.io/inji/inji-wallet/overview)
 
 ## Setup PreRequisites
+
+
 
 Be sure to have the following build tools installed before proceeding:
 
