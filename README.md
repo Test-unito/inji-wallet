@@ -14,6 +14,8 @@ for more details refer [here](https://docs.mosip.io/inji/inji-wallet/overview)
 
 ## Setup PreRequisites
 
+
+
 Be sure to have the following build tools installed before proceeding:
 
 - [React Native 0.74.5](https://reactnative.dev/docs/0.74/getting-started)
